@@ -1,0 +1,13 @@
+   Geometry: area of a triangle 
+           (stage 1)
+1. prompt user to enter three points of a triangle 
+2. display its area 
+
+           (stage 2)
+1. prompt user to enter three points
+2. collect the points 
+3. store the points as (side1),(side2),(side3)
+4. calculate for sides = (side1) + (side2) + (side3)/2
+5. store the result as sides
+6. calculate for area using the formula: Math.sqrt(s(s - side1)(s - side2)(s _ side#)
+7. store result as area

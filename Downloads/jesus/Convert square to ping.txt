@@ -1,0 +1,13 @@
+     Convert square to ping
+          (stage one)
+1. Convert square into ping
+2. Prompt user to enter a number 
+3. Covert it to ping 
+4. Display result 
+
+       (Stage two)
+1. prompt user to enter a value
+2. collect the value 
+3. Store the value as square meter 
+4. convert square meter to ping by multiplying it by 0.3025
+5. Display the result   

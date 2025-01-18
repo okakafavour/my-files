@@ -1,0 +1,43 @@
+      Largest and Smallest
+       (stage one)
+1. read five integers 
+2. determine the integers
+3. print the largest integers in group
+4. print the smallest integers in group
+
+     (stage two)
+1. prompt user to enter a value for first integer
+2. collect the value
+3. store the value as "first integer"
+4. prompt user to enter a value for second integer
+5. collect the value
+6. store the value as "second integer"
+7. prompt user to enter a value for third integer
+8. collect the value
+9. store the value as "third integer"
+10. prompt user to enter a value for fourth integer
+11. collect the value
+12.s store the value as "fourth integer"
+13. prompt user to enter a value for fifth integer 
+14. collect the value
+15. store the value as "fifth integer"
+16. calculate for the largest integers : if first integer > second integer,third integer,fourth integer,fifth integer
+17. display first integer as largest integer
+18. if second integer > first number,third number,fourth number,fifth number
+19. display second integer as largest integer
+20. if third integer > first integer,second integer,fourth integer,fifth integer
+21. display third integer as largest integer
+22. if fourth integer > first integer,second integer,third integer,fifth integer
+23. display fourth integer as largest integer
+24. if fifth integer is > first integer,second integer,third integer,fourth integer
+25. display the fifth integer as largest integer 
+26. calculate for the smallest integers : if first integer > second integer,third integer,fourth integer,fifth integer
+27. display first integer as smallest integer
+28. if second integer > first number,third number,fourth number,fifth number
+29. display second integer as smallest integer
+30. if third integer > first integer,second integer,fourth integer,fifth integer
+31. display third integer as smallestinteger
+32. if fourth integer > first integer,second integer,third integer,fifth integer
+33. display fourth integer as smallest integer
+34. if fifth integer is > first integer,second integer,third integer,fourth integer
+35. display the fifth integer as smallest integer  

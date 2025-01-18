@@ -1,0 +1,24 @@
+     Arithmetic 
+      (stage one)
+1. Ask user to enter two integers
+2. obtain them from the user
+3. Square each 
+4. sum of their square
+5. difference of the squares
+
+     (stage two)
+1. prompt user to enter a first integer
+2. collect the integers 
+3. store integer as first integer
+4. prompt user to enter a secound integer
+5. collect the integer
+6. store integer as secound integer
+7. calculate square of first integer :  (first integer * First integer)
+8 store result as square of first integer
+8. calculate square of second integer : (second integer * second integer)
+9. store the as square of first integer
+10. calculate the sum of their squares : square of first integer + square of second integer
+11. store result as sum of their squares
+12. calculate the difference of their squares : square of first integer - square of second integer
+13. store the result as difference of their squares.
+ 

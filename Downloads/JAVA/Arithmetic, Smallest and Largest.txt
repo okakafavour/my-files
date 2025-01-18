@@ -1,0 +1,10 @@
+   Arithmetic, Smallest and Largest
+         (stage 1)
+1. input three integers from the user 
+2. display the sum of the numbers
+3. display the average of the numbers
+4. display product of the numbers
+5. display smallest of the numbers
+6. display largest of the numbers
+
+

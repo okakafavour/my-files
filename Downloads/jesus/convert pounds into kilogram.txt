@@ -1,0 +1,14 @@
+  convert pounds into kilogram
+     (stage 1)
+1. convert pounds into kilogram
+2. prompt user to enter a number 
+3. convert it to kilogram
+4. display result
+
+    (stage two)
+1. prompt user to enter a value 
+2. collect the value
+3. store the value as pounds
+4. convert pounds to kilogram by multiplying it by 0.454
+4. store the result as kilogram
+5. display kilogram

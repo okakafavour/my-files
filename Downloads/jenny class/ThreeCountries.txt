@@ -1,0 +1,28 @@
+import java.util.Scanner;
+
+   public class ThreeCountries{
+
+       public static void main(String[] args){
+     Scanner input = new Scanner(System.in);
+
+    System.out.print("Enter the first_counrty: ");
+     int first_country = input.nextInt();
+  
+   System.out.print("Enter the second_country: ");
+   int second_country("Enter the secod_country: ");
+
+  System.out.print("Enter third_country: " );
+ int third_country = input.nextInt();
+
+int decending_order = ("third_country : second_country : third_country");
+System.out.print("from decending order: " + decending_order);
+  
+
+
+
+
+
+}
+
+
+}

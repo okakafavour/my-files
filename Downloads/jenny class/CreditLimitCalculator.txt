@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+ public class CreditLimitCalculator{
+ 
+ public static void main(String[] args){
+
+
+ Scanner sc = new Scanner(System.in);
+
+System.out.print("Enter Acconunt number: ");
+double accountNumber = sc.nextDouble();
+
+System.out.print("Enter balance at the beginning of the month: ");
+double beginning_balance = sc.nextDouble();
+
+System.out.print("Enter total of all items charged by the customer this month: ");
+double charges = sc.nextDouble();
+
+System.out.print("Enter total of all credit applied to the customer's account this month: ");
+double customer's_account_this_month = sc.nextDouble();
+
+System.out.print("Enter allowed credit limit: ");
+double credit_limit = sc.nextDouble();
+
+double new_balance = beginning_balance + charges - credit_limit;
+System.out.print("new balance is: " + new balance);
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+}

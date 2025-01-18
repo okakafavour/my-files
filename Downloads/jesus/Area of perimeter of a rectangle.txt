@@ -1,0 +1,19 @@
+        Area of perimeter of a rectangle
+           (Stage 1)
+1. Display area
+2. Display Perimeter of a rectangle
+
+          (Stage two)
+1. Prompt user to enter a value 
+2. Collect the value
+3. Store the value as width
+4. prompt user a value
+6. collet the value
+7. store the value as height
+8. calculate for area: width*height
+9. store the result as area
+10. calculate the perimeter: 2*(width*height)
+11. store the result as perimeter 
+12. Display area
+13. Display perimeter
+

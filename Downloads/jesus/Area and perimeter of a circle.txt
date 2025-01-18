@@ -1,0 +1,19 @@
+      Area and perimeter of a circle
+            (stage 1)
+1. Display area of a circle
+2. Display perimeter of a circle
+        
+          (stage two)
+1. prompt user to enter a value
+2. collect the value
+3. store the value as radius 
+4. prompt user to enter a value 
+5. collect the value 
+6. store the value as π
+7. calculate for area : radius * radius * π
+8. store the result as area
+9. calculate for perimeter : 2 * radius * π
+10. store the result as perimeter 
+11. display area
+13. display perimeter 
+               

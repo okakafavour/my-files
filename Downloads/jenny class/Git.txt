@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class GasMileage{
+
+public static void main(String[] args){
+
+Scanner userinput = new Scanner(System.in);
+
+System.out.print("Enter miles driven: ");
+int miles = userinput.nextInt();
+
+System.out.print("Enter gallon: ");
+Int gallon = userinput.nextInt();
+
+
+
+
+
+
+
+}
+
+
+
+
+}

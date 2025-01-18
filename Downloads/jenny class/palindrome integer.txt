@@ -1,0 +1,14 @@
+   palindrome integer
+       (stage 1)
+1. prompt user to enter three digit integer
+2. determine if it is palindrome integer
+
+     (stage 2)
+1. prompt user to enter three digit integer
+2. collect the integer
+3. store the integer as "three digit integer"
+4. calculate to find if the number is palindrome: three digit mode 10 
+5. store the result as "numberone"
+6.
+    
+    

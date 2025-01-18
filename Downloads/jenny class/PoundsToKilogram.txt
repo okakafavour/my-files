@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class PoundsToKilogram{
+public static void main(String[] arg){
+Scanner input = new Scanner(System.in);
+System.out.print("Number in pounds: ");
+double poundsNum = input.nextDouble();
+
+
+double numInKilogram = poundNum * 0.454;
+System.out.print("Number in kilogram: "+numInKilogram);
+
+
+}
+
+}

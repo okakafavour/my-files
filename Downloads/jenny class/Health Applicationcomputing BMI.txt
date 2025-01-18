@@ -1,0 +1,19 @@
+    Health Application:computing BMI
+           (stage 1)
+1. Measure health on weight
+2. Calculate weight in kilograms
+3. Divide the square of your height in meters
+4. prompt user to enter a weight in pounds
+5. Enter height in inches
+6. Display result as BMI
+
+        (Stage 2)
+1. Prompt user to enter a value 
+2. collect the value
+3. Store the value as weight in pounds
+4. Prompt user to enter a value 
+5. Collect the value 
+6. Store the value as height in inches 
+7. Calculate the BMI using formula : weight in pounds/(height in inches)2
+8. store result as BMI 
+9. display BMI

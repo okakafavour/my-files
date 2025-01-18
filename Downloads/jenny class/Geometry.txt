@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class Geometry{
+public static void main(String[] args){
+
+Scanner.input = new Scanner(System.in);
+System.out.print("Enter three points: ");
+int ( = input.next.Int();
+
+int s = three points
+
+
+}
+
+
+
+}
